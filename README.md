@@ -20,13 +20,15 @@ Responsive design
 
 **🛠️ Tech Stack
 **
+
+
 HTML – Game layout
 
 CSS – Styling & animations
 
 JavaScript – Game logic & interactions
 
-📂 Project Structure
+**📂 Project Structure**
 tic-tac-toe/
 │── index.html      # Main HTML file
 │── style.css       # Styling
