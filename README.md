@@ -2,9 +2,12 @@
 
 A classic Tic Tac Toe Game built using HTML, CSS, and JavaScript.
 Play against a friend (2-player mode) and enjoy the simple interactive design.
+
+
 **
-🚀 Features
+**🚀 Features**
 **
+
 3x3 game board
 
 Two-player gameplay (X & O)
